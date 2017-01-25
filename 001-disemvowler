@@ -1,0 +1,8 @@
+var n = Math.floor(Math.random(1)*10);
+
+var m = Math.floor(Math.random(1)*20);
+
+var fine = n * m ;
+
+console.log(fine) 
+
